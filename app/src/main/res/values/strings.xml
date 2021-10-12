@@ -3,4 +3,11 @@
 
     <string name="main_title">Zagori</string>
     <string name="main_subtitle">Open Source Libraries</string>
+
+    <string name="main_l1_title">BottomNavBar</string>
+    <string name="main_l1_subtitle">A custom bottom navigation view with a floating action button</string>
+    <string name="main_l2_title">MediaViewer</string>
+    <string name="main_l2_subtitle">A library that allows displaying media in a sliding screen UI.</string>
+    <string name="main_l3_title">Loada</string>
+    <string name="main_l3_subtitle">A library that allows downloading and in-memory caching of files.</string>
 </resources>
